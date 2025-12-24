@@ -1,0 +1,53 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@font-face {
+    font-family:Satoshi;
+    src: url(/build/assets/fonts/Satoshi-Regular.otf);
+}
+@font-face {
+    font-family:CabinetGrotesk;
+    src: url(/build/assets/fonts/CabinetGrotesk-Regular.otf);
+}
+
+@font-face {
+    font-family:Halant;
+    src: url(/build/assets/fonts/Halant-Regular.ttf);
+}
+
+/* @font-face {
+    font-family:BebasNeue;
+    src: url(/build/assets/fonts/BebasNeue-Regular.otf);
+}
+
+div{
+    font-family:BebasNeue;
+} */
+
+h1{
+    font-family:Halant;
+}
+
+h2{
+    font-family:CabinetGrotesk;
+}
+
+ul, li, p, h3{
+    font-family:Satoshi;
+}
+
+
+
+
+
+
+
+      
+  
+ 
+
